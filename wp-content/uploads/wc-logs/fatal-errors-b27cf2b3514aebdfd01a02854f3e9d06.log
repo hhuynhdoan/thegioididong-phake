@@ -1,0 +1,92 @@
+2021-05-05T09:56:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2021-05-05T13:30:49+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
+2021-05-05T13:30:55+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
+2021-05-05T13:30:58+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
+2021-05-05T13:34:58+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
+2021-05-05T13:35:50+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
+2021-05-05T13:35:59+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
+2021-05-05T13:37:15+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
+2021-05-05T13:37:34+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
+2021-05-05T13:39:46+00:00 CRITICAL Uncaught Error: Call to undefined function wc_get_loop_prop() in C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\functions.yith-wcwl.php:637
+Stack trace:
+#0 C:\xampp\htdocs\thegioididong\wp-content\plugins\yith-woocommerce-wishlist-premium\includes\class.yith-wcwl-shortcode.php(586): yith_wcwl_is_single()
+#1 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(319): YITH_WCWL_Shortcode::add_to_wishlist('', '', 'yith_wcwl_add_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\thegioididong\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(yith_w...', 'do_shortcode_ta...', '[yith_wcwl_add_...')
+#4 C:\xampp\htdocs\thegioididong\wp-content\themes\manhphuc\thegioididong\inc\integrations\wc-yith-wishlist\yith-wishlist.php(56): do_shortcode('[yith_wcwl_add_...')
+#5 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(286): flatsome_product_wishlist_button('')
+#6 C:\xampp\htdocs\thegioididong\wp-includes\class-wp-hook.php(3
+
